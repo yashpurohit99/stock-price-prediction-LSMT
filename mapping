@@ -1,0 +1,7 @@
+stock-price-prediction/
+├── mini_Project_02.ipynb       # Main notebook
+├── requirements.txt            # Python dependencies
+├── README.md                   # This file
+└── assets/                     # Sample outputs
+    ├── training_loss.png       # Training curve
+    └── predictions_vs_actual.png
